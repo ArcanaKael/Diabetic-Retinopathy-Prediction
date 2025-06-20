@@ -1,0 +1,13 @@
+pandas
+numpy
+streamlit==1.37.1
+seaborn
+matplotlib
+scikit-learn==1.6.1
+plotly
+joblib
+image
+pillow
+tensorflow<2.16
+tf-keras<2.16
+opencv-python-headless>=4.8.0,<4.11.0
